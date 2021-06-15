@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @143data
 - 👀 I’m interested in information design and data visualization
-- 🌱 I’m currently learning value sensitive design
+- 🌱 I’m currently learning about value sensitive design and existentialism
 - 💞️ I’m looking to collaborate on challenging projects that can transform me
 - 📫 Reach me by [email](mailto:erienomo@gmail.com)
 
