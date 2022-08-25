@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @143data
-- 👀 I’m curious about data visualization and information design
+- 👀 I’m curious about the intersections of art, technology, AI, and humanity
 - 🌱 I’m currently learning about cloud infrastructure and software defined networking
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 Reach me by [email](mailto:erienomo@gmail.com)
